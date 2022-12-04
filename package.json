@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "receiver": "clear && nodemon receiver",
+    "sender": "clear && nodemon sender"
+  },
+  "dependencies": {
+    "amqplib": "^0.10.3"
+  }
+}
